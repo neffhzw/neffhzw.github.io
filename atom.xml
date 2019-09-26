@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>NEFF&#39; Blog</title>
+  <icon>https://www.gravatar.com/avatar/53d6f271dac91e6c137362a3243514b4</icon>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-09-26T12:46:26.374Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>NEFF</name>
+    <email>neffhzw0709@gmail.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/09/26/hello-world/"/>
+    <id>http://yoursite.com/2019/09/26/hello-world/</id>
+    <published>2019-09-26T12:46:26.374Z</published>
+    <updated>2019-09-26T12:46:26.374Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>New World</title>
+    <link href="http://yoursite.com/2018/09/03/New-World/"/>
+    <id>http://yoursite.com/2018/09/03/New-World/</id>
+    <published>2018-09-03T15:56:44.000Z</published>
+    <updated>2018-09-03T16:33:44.625Z</updated>
+    
+    <content type="html"><![CDATA[<p>大概是太兴奋了，所以就先随便发一篇叭嘻嘻嘻</p><h2 id="菜鸟报道"><a href="#菜鸟报道" class="headerlink" title="菜鸟报道"></a>菜鸟报道</h2><p>创这个博客来督促自己学习叭哈哈哈哈哈</p><h3 id="性格"><a href="#性格" class="headerlink" title="性格"></a>性格</h3><p>唔很迷哈哈哈哈~~</p><h3 id="爱好"><a href="#爱好" class="headerlink" title="爱好"></a>爱好</h3><p>我本命海贼王哇<br>追番</p><p>无聊的时候喜欢一边听mika的歌一边爱看狗血小说愉悦身心</p><p>刚接触steam只玩了几个别人安利的游戏</p><p>没什么特殊的爱好，喜欢的东西挺多的，对很多东西充满好奇，但尝试的话会过一段时间才会233333</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;大概是太兴奋了，所以就先随便发一篇叭嘻嘻嘻&lt;/p&gt;
+&lt;h2 id=&quot;菜鸟报道&quot;&gt;&lt;a href=&quot;#菜鸟报道&quot; class=&quot;headerlink&quot; title=&quot;菜鸟报道&quot;&gt;&lt;/a&gt;菜鸟报道&lt;/h2&gt;&lt;p&gt;创这个博客来督促自己学习叭哈哈哈哈哈&lt;/p&gt;
+&lt;h3 id=&quot;性格
+      
+    
+    </summary>
+    
+      <category term="自我介绍" scheme="http://yoursite.com/categories/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/"/>
+    
+    
+      <category term="废话" scheme="http://yoursite.com/tags/%E5%BA%9F%E8%AF%9D/"/>
+    
+      <category term="自我介绍1.0" scheme="http://yoursite.com/tags/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D1-0/"/>
+    
+      <category term="假文" scheme="http://yoursite.com/tags/%E5%81%87%E6%96%87/"/>
+    
+  </entry>
+  
+</feed>

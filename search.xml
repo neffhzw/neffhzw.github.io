@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F09%2F26%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[New World]]></title>
+    <url>%2F2018%2F09%2F03%2FNew-World%2F</url>
+    <content type="text"><![CDATA[大概是太兴奋了，所以就先随便发一篇叭嘻嘻嘻 菜鸟报道创这个博客来督促自己学习叭哈哈哈哈哈 性格唔很迷哈哈哈哈~~ 爱好我本命海贼王哇追番 无聊的时候喜欢一边听mika的歌一边爱看狗血小说愉悦身心 刚接触steam只玩了几个别人安利的游戏 没什么特殊的爱好，喜欢的东西挺多的，对很多东西充满好奇，但尝试的话会过一段时间才会233333]]></content>
+      <categories>
+        <category>自我介绍</category>
+      </categories>
+      <tags>
+        <tag>废话</tag>
+        <tag>自我介绍1.0</tag>
+        <tag>假文</tag>
+      </tags>
+  </entry>
+</search>
